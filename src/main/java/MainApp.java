@@ -85,6 +85,6 @@ public class MainApp {
 
 
 animalShelter.sortAnimals();
-
+        System.out.println("hello");
     }
 }
